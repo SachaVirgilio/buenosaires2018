@@ -1,6 +1,11 @@
 a# buenosaires2018
 
-HOLA!
+HOLA !
+
+#CAROLINA
+#MARILINA
+#BELEN
+#SANTIAGO
 
 Workshop for Buenos Aires on 11 May 2018.
 
